@@ -1,4 +1,4 @@
-# Facebook Desktoo Application
+# Facebook Desktop Application
 
 * Programmed in C#.
 
