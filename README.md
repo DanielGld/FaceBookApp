@@ -2,10 +2,10 @@
 
 * Programmed in C#.
 
-* Using with Facebook API.
+* Used Facebook API.
 
 * Designed using Winforms.
 
-* Using couple of design patterns.
+* Used a couple of design patterns.
 
-* Using Language capabilities like: Multi-Threading, Serialization, Delegates, and Generics.
+* Used Language capabilities like: Multi-Threading, Serialization, Delegates, and Generics.
